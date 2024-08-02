@@ -5,6 +5,10 @@
 The analysis reveals significant gender disparities in promotions and executive roles within the organization, alongside a high employee turnover rate. 
 It highlights the need for targeted strategies to address these imbalances and enhance employee retention and satisfaction.
 
+##Live Dashboard link
+
+Click here for the dashboard [view](https://app.powerbi.com/view?r=eyJrIjoiN2ExMDYwMDItMjExMS00ZWYxLTgwYTEtOGNmZDNhNDRhZDcyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Insights
 
 - Total employees are 500, with 295 males and 205 females, and high representation in Switzerland.
